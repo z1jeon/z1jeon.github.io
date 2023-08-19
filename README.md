@@ -1,10 +1,10 @@
-# Business Analyst/Data Scientist
+# Business Analyst / Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, R, Power BI
 
 ## Education							       		
-- M.S., Information Management | University of Washington at Seattle (_November 2024_)	 			        		
-- B.S., International Business | The George Washington University (_May 2023_)
+- M.S., Information Management|University of Washington at Seattle (_November 2024_)	 			        		
+- B.S., International Business|The George Washington University (_May 2023_)
 
 ## Work Experience
 **Business Operation Analyst Intern @ Navy Federal Credit Union (_June 2023 - Present_)**
