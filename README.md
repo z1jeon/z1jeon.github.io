@@ -1,6 +1,6 @@
 # Business Analyst/Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, R, MATLAB
+#### Technical Skills: Python, SQL, AWS, R, Power BI
 
 ## Education							       		
 - M.S., Information Management (MSIM)	| University of Washington at Seattle (_November 2024_)	 			        		
@@ -10,6 +10,8 @@
 **Business Operation Analyst Intern @ Navy Federal Credit Union (_June 2023 - Present_)**
 - Analyzed processes and workflows to identify and quantify value-added benefits before and after automation efforts
 - Articulated the value-add that the Real Estate Lending - Process Automation team provides to the business through data analysis
+
+![Intern](/assets/img/Intern.jpeg)
 
 **Sales and Marketing Representative @ SAFE HOME SECURITY Inc. (_May 2022 - August 2022_)**
 - Developed leads through marketing products and services and closed contracts with new clients.
@@ -25,5 +27,9 @@
 ## Projects
 ### Export Strategy Consulting Project with GWU Center for International Business Education & Research
 [Publication](https://www.canva.com/design/DAFf0654NE4/JJirpirMMVMsD8okEpkG0g/edit)
+
+--
 • Employed a hypothesis-driven consulting process to identify key business questions and deliver actionable strategic recommendations to the client, Kenyan Cafe. 
 • Conducted research to assess the Canadian market for a navigating regulatory frameworks, tariffs, and trade policies, and designed and executed a custom-tailored data collection plan using a hypothesis-driven consulting process to deliver actionable strategic export solutions via written report and oral presentation.
+
+![GWCiber](/assets/img/GWCiber.jpeg)
