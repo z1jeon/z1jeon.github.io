@@ -28,7 +28,7 @@
 ### Export Strategy Consulting Project with GWU Center for International Business Education & Research
 [Publication](https://www.canva.com/design/DAFf0654NE4/JJirpirMMVMsD8okEpkG0g/edit)
 
---
+
 • Employed a hypothesis-driven consulting process to identify key business questions and deliver actionable strategic recommendations to the client, Kenyan Cafe. 
 • Conducted research to assess the Canadian market for a navigating regulatory frameworks, tariffs, and trade policies, and designed and executed a custom-tailored data collection plan using a hypothesis-driven consulting process to deliver actionable strategic export solutions via written report and oral presentation.
 
